@@ -21,6 +21,3 @@ Before this workflow can work, your project should have these scripts in `packag
 If your repo doesn’t have these scripts, the pipeline will fail (because computers are very literal and emotionally unavailable).
 
 ---
-
-## Step 1: Create the workflow file
-1. In your repo, create this folder structure if it doesn’t exist:
